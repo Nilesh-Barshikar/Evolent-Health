@@ -1,0 +1,13 @@
+D:\Fresh Start\Evolent Health\ContactsAPI-master\ContactsAPI-master\src\ContactsApi\bin\Debug\netcoreapp2.0\web.config
+D:\Fresh Start\Evolent Health\ContactsAPI-master\ContactsAPI-master\src\ContactsApi\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Fresh Start\Evolent Health\ContactsAPI-master\ContactsAPI-master\src\ContactsApi\bin\Debug\netcoreapp2.0\ContactsApi.deps.json
+D:\Fresh Start\Evolent Health\ContactsAPI-master\ContactsAPI-master\src\ContactsApi\bin\Debug\netcoreapp2.0\ContactsApi.runtimeconfig.json
+D:\Fresh Start\Evolent Health\ContactsAPI-master\ContactsAPI-master\src\ContactsApi\bin\Debug\netcoreapp2.0\ContactsApi.runtimeconfig.dev.json
+D:\Fresh Start\Evolent Health\ContactsAPI-master\ContactsAPI-master\src\ContactsApi\bin\Debug\netcoreapp2.0\ContactsApi.dll
+D:\Fresh Start\Evolent Health\ContactsAPI-master\ContactsAPI-master\src\ContactsApi\bin\Debug\netcoreapp2.0\ContactsApi.pdb
+D:\Fresh Start\Evolent Health\ContactsAPI-master\ContactsAPI-master\src\ContactsApi\obj\Debug\netcoreapp2.0\ContactsApi.AssemblyInfoInputs.cache
+D:\Fresh Start\Evolent Health\ContactsAPI-master\ContactsAPI-master\src\ContactsApi\obj\Debug\netcoreapp2.0\ContactsApi.AssemblyInfo.cs
+D:\Fresh Start\Evolent Health\ContactsAPI-master\ContactsAPI-master\src\ContactsApi\obj\Debug\netcoreapp2.0\ContactsApi.csproj.CoreCompileInputs.cache
+D:\Fresh Start\Evolent Health\ContactsAPI-master\ContactsAPI-master\src\ContactsApi\obj\Debug\netcoreapp2.0\ContactsApi.dll
+D:\Fresh Start\Evolent Health\ContactsAPI-master\ContactsAPI-master\src\ContactsApi\obj\Debug\netcoreapp2.0\ContactsApi.pdb
+D:\Fresh Start\Evolent Health\ContactsAPI-master\ContactsAPI-master\src\ContactsApi\obj\Debug\netcoreapp2.0\ContactsApi.genruntimeconfig.cache
